@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://sitemaps.org/schemas/sitemap/0.9"
 >
-  <url><loc>https://www.gnsolutions.eu/</loc></url>
-  <url><loc>https://www.gnsolutions.eu/aboutus</loc></url>
-  <url><loc>https://www.gnsolutions.eu/blogs</loc></url>
-  <url><loc>https://www.gnsolutions.eu/contact</loc></url>
-  <url><loc>https://www.gnsolutions.eu/testimonials</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services</loc></url>
+  <url><loc>https://gnsolutions.eu/</loc></url>
+  <url><loc>https://gnsolutions.eu/aboutus</loc></url>
+  <url><loc>https://gnsolutions.eu/blogs</loc></url>
+  <url><loc>https://gnsolutions.eu/contact</loc></url>
+  <url><loc>https://gnsolutions.eu/testimonials</loc></url>
+  <url><loc>https://gnsolutions.eu/services</loc></url>
 
   <!-- Service Pages -->
-  <url><loc>https://www.gnsolutions.eu/services/network-as-code</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/infrastructure-as-code</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/platform-as-code</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/business-process-automation</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/cybersecurity</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/managed-network</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/it-training</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/technology-transitions</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/enterprise-solutions</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/remote-smart-hands</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/it-help-desk-support</loc></url>
-  <url><loc>https://www.gnsolutions.eu/services/it-project-management</loc></url>
+  <url><loc>https://gnsolutions.eu/services/network-as-code</loc></url>
+  <url><loc>https://gnsolutions.eu/services/infrastructure-as-code</loc></url>
+  <url><loc>https://gnsolutions.eu/services/platform-as-code</loc></url>
+  <url><loc>https://gnsolutions.eu/services/business-process-automation</loc></url>
+  <url><loc>https://gnsolutions.eu/services/cybersecurity</loc></url>
+  <url><loc>https://gnsolutions.eu/services/managed-network</loc></url>
+  <url><loc>https://gnsolutions.eu/services/it-training</loc></url>
+  <url><loc>https://gnsolutions.eu/services/technology-transitions</loc></url>
+  <url><loc>https://gnsolutions.eu/services/enterprise-solutions</loc></url>
+  <url><loc>https://gnsolutions.eu/services/remote-smart-hands</loc></url>
+  <url><loc>https://gnsolutions.eu/services/it-help-desk-support</loc></url>
+  <url><loc>https://gnsolutions.eu/services/it-project-management</loc></url>
 </urlset>
